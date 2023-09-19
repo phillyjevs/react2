@@ -62,6 +62,11 @@
 {
   "engines": {
     "node": "18.x"
+  }
+}
+
+{
+  "engines": {
     "yarn": "4.0.0-rc.50"
   }
 }
